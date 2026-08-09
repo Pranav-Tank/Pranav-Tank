@@ -48,7 +48,7 @@ Outside of work I design and ship offline-first mobile applications — where I 
 
 ### 📌 Projects
 
-**🧾 [Rojnishi](https://github.com/Pranav-Tank/Rojnishi-Public) — Offline-First Personal Finance Ledger**
+**🧾 [Rojnishi](https://github.com/Pranav-Tank/Rojnishi-App) — Offline-First Personal Finance Ledger**
 `React Native` `Expo` `SQLite` `Zustand`
 
 A complete financial ledger that works with no network connection. I designed the architecture, the normalized nine-table SQLite schema, and the reusable component and service layers.
@@ -57,7 +57,7 @@ The problem worth talking about: keeping balances correct when history changes. 
 
 ---
 
-**⏱️ [Punch Tracker](https://github.com/Pranav-Tank/Punch-Tracker-Public) — Offline-First Workforce Attendance**
+**⏱️ [Punch Tracker](https://github.com/Pranav-Tank/Punch-Tracker-App) — Offline-First Workforce Attendance**
 `Flutter` `Hive` `Provider`
 
 Attendance tracking across multiple workplaces with configurable schedules, breaks, holidays, and leave rules. I defined the product requirements, feature flow, and Hive data model. Analytics and PDF/CSV reports are generated entirely from local storage, so the app stays fully functional offline.

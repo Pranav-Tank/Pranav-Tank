@@ -3,9 +3,9 @@
 # Hi, I'm Pranav Tank 👋
 ### Full Stack Software Engineer — Ahmedabad, India
 
-I build backend systems for production SaaS. Currently working on a multi-tenant restaurant management platform where I own modules end to end: REST API design, PostgreSQL data modelling, role-based access control, and the tax computation workflow.
+I design and build full stack and offline-first mobile applications on my own — from product requirements and schema design to architecture and UI.Most recently I worked on a multi-tenant restaurant management platform, owning modules end to end across React, Node.js, PostgreSQL and Redis: dynamic authentication and authorization, the payment module, tenant onboarding workflows, tax computation and financial reporting.
 
-Outside of work I design and ship offline-first mobile applications — where I get to do the parts I don't touch at my day job: product requirements, schema design, and architecture from a blank page.
+Open to full stack, frontend, backend, mobile and AI-integration roles — remote, hybrid or relocation.
 
 <br/>
 
@@ -33,16 +33,23 @@ Outside of work I design and ship offline-first mobile applications — where I 
 
 **Frontend & Mobile**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
 
+**AI**
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat)
+
 **Languages & Tools**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
 
 ---
 
@@ -57,8 +64,15 @@ The problem worth talking about: keeping balances correct when history changes. 
 
 ---
 
+**🤖 [Booking System with AI](https://github.com/Pranav-Tank/Booking-System-with-AI) — Full Stack Salon Booking Platform**
+`React` `Vite` `Node.js` `Express` `Prisma` `Ollama` `OpenAI`
+
+A full stack booking platform with an AI-powered booking assistant that runs on a local LLM through Ollama or on OpenAI.
+
+---
+
 **⏱️ [Punch Tracker](https://github.com/Pranav-Tank/Punch-Tracker-App) — Offline-First Workforce Attendance**
-`Flutter` `Hive` `Provider`
+`Flutter` `Dart` `Hive` `Provider`
 
 Attendance tracking across multiple workplaces with configurable schedules, breaks, holidays, and leave rules. I defined the product requirements, feature flow, and Hive data model. Analytics and PDF/CSV reports are generated entirely from local storage, so the app stays fully functional offline.
 
@@ -68,14 +82,6 @@ Attendance tracking across multiple workplaces with configurable schedules, brea
 `React.js` `Node.js` `MongoDB` `HuggingFace` `Blockchain`
 
 A digital library platform with HuggingFace-powered PDF summarization and document question-answering, plus smart-contract based ownership verification so book ownership is recorded on-chain rather than sitting only in the application database.
-
----
-
-### 🔭 Currently
-
-- Going deep on PostgreSQL query planning, indexing, and execution plans
-- Learning TypeScript and strengthening my React fundamentals
-- Studying Redis caching patterns and cache invalidation properly
 
 ---
 
